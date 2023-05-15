@@ -3,3 +3,5 @@
 </p>
 <hr>
 <h3 align="center">ThreatMon Daily C2 Feed</h3>
+
+"ThreatMon Daily C2 Feed" by ThreatMon Cyber Threat Intelligence company is now on Github!
