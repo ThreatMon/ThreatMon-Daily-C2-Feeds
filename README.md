@@ -10,7 +10,8 @@ The Daily C2 Feed is a community contribution provided by ThreatMon Cyber Threat
 This service offered by ThreatMon uses the blacklist format used in firewalls to facilitate integration into users' own security systems and to increase the readability of the data.
 
 The daily data provided free and limited of charge by ThreatMon includes
-- [x] HTTP/HTTPS
+- [x] HTTP
+- [x] HTTPS
 - [x] IPv4
 - [x] IPv6
 - [x] Domain
