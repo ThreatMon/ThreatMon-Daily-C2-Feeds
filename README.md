@@ -18,12 +18,13 @@ The daily data provided free and limited of charge by ThreatMon includes
 - [x] Domain
 
 The data given above is archived in the "ThreatMon Daily C2 Feed" repository in a limited number of days.<br>
-To access the data, you can go to the folder specified with the year and month you want to access and view the file containing the command-and-control (C2) servers of the day you want to access.
+To access the data, you can go to the folder specified with the year and month you want to access and view the file containing the command-and-control (C2) servers of the day you want to access.<br><br>
 
 > **Warning** <br>
 > This command-and-control (C2) data, provided by ThreatMon, presents the top 50 detected data for the day.<br>
 In addition, since this limited and free service is for the community, it does not promise users the validity of archived data, assuming that it can be used for legal purposes later on. However, ThreatMon continues to improve to always provide you with the most reliable and accurate data quickly.
 
+<br>
 ThreatMon offers you URL IPv4, IPv6 Domain,  information of malware to ensure that you and your systems are protected from malware. You can take advantage of the free feed service provided by ThreatMon for the security of your systems, or you can check our premium and enterprise services for a higher level of security.
 
 ---
