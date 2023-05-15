@@ -3,4 +3,4 @@
 </p>
 <hr>
 <h3 align="center">ThreatMon Daily C2 Feed</h3>
-<p align="center">ThreatMon Daily C2 Feed by ThreatMon Cyber Threat Intelligence company is now on Github!</p>
+<p align="center">ThreatMon Daily C2 Feed by ThreatMon Cyber Threat Intelligence company is now avaible on Github!</p>
